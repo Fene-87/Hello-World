@@ -14,10 +14,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Microverse Linters <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 
-**Microverse Linters** is a simple HTML CSS project for learning how to use linters, creating pull requests and properly documenting my projects
+**Hello Microverse** is a simple HTML CSS project for learning how to use linters, creating pull requests and properly documenting my projects
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML
@@ -64,7 +64,7 @@ Example commands:
 
 👤 **Fene-87**
 
-- GitHub: [@githubhandle](https://github.com/Fene-87)
+- GitHub: [@githubhandle](@Fene-87)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mark-fenekayas-67378220b/)
 
 
@@ -93,10 +93,3 @@ I would like to thank the entire Microverse Team for their continued support
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>

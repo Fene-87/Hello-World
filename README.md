@@ -27,7 +27,9 @@ CSS
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps. 
+Go to github https://github.com/Fene-87 and into the Hello-Wolrd repository.
+Clone the repository into your local repository.
 
 ### Prerequisites
 

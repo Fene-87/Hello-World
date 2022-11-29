@@ -94,4 +94,9 @@ I would like to thank the entire Microverse Team for their continued support
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 📝 License <a name="license"></a>
 
+This project is [MIT](./LICENSE) licensed.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -64,8 +64,8 @@ Example commands:
 
 👤 **Fene-87**
 
-- GitHub: [@githubhandle](@Fene-87)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mark-fenekayas-67378220b/)
+- GitHub: [@Fene-87](https://github.com/Fene-87)
+- LinkedIn: [Mark Fenekayas](https://www.linkedin.com/in/mark-fenekayas-67378220b/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
